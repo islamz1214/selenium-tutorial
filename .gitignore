@@ -14,3 +14,7 @@
 # Maven
 log/
 target/
+
+# TestNG
+target
+test-output
